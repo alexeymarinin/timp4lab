@@ -1,3 +1,10 @@
+ * *
+* @file exception.h
+* @author marinin.a.v
+* @ версия 1.0
+* @ краткое Описание класса отл.
+* @copyright ИБСТ ПГУ
+* /
 # pragma once
 # включить  < stdexcept >
 # include  < строка >
